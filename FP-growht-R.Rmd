@@ -33,3 +33,19 @@ Mencari Confidance 2 Itemset
 # Eksperimen Algoritma
 disini saya akan menggunakan dataset Online Retail.
 
+## Library
+```{r}
+library(tidyverse) # helpful in Data Cleaning and Manipulation
+library(arules) # Mining Association Rules and Frequent Itemsets
+library(arulesViz) # Visualizing Association Rules and Frequent Itemsets 
+library(gridExtra) #  low-level functions to create graphical objects 
+library(ggthemes) # For cool themes like fivethirtyEight
+library(dplyr) # Data Manipulation
+library(readxl)# Read Excel Files in R
+library(plyr)# Tools for Splitting, Applying and Combining Data
+library(ggplot2) # Create graphics and charts
+library(knitr) # Dynamic Report generation in R
+library(lubridate) # Easier to work with dates and times.
+library(kableExtra) # construct complex tables and customize styles
+library(RColorBrewer) # Color schemes for plotting
+```
